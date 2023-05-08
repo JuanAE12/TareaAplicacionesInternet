@@ -1,0 +1,12 @@
+Se debe de rellenar el contenido de la siguiente manera: 
+1ra persona metodologias tradicionales
+2da persona metodologias ágiles
+
+1ra persona: MARTINEZ TICONA JUAN DE DIOS ABAD 
+***METODOLOGIAS TRADICIONALES***
+-- 1: Modelo espiral: Esta metodlogía permite un control preciso de los costos, recursos y potenciales riesgos del proyecto.
+-- 2: Modelo cascada: Se caracteriza por ofrecer un proyecto bien estructurado y de robusta documentación.
+-- 3: modelo prototipo: Destaca por no precisar de requerimientos robustos o estables para iniciar el proyecto.
+-- 4: Modelo incremental: Con esta metodología el cliente puede cambiar los requerimientos del proyecto en cada iteración.
+-- 5: Modelo RAD (Rapid Application Development): Destaca por su flexibilidad y adaptabilidad a los cambios.
+
