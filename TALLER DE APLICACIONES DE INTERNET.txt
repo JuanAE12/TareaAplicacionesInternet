@@ -10,3 +10,11 @@ Se debe de rellenar el contenido de la siguiente manera:
 -- 4: Modelo incremental: Con esta metodología el cliente puede cambiar los requerimientos del proyecto en cada iteración.
 -- 5: Modelo RAD (Rapid Application Development): Destaca por su flexibilidad y adaptabilidad a los cambios.
 
+2da persona: MARTINEZ TICONA JUAN DE DIOS ABAD (SEGUNDA CUENTA)
+***METOGOLOGIAS ÁGILES***
+-- 1: Programación extrema: Garantizan un código de mayor calidad, cualquier error emergente es resuelto en el acto.
+-- 2: Metodologia Kanban: Se garantiza una constante supervisión del rendimiento tanto del equipo como del producto.
+-- 3: Metodologia Scrum: Constante retroalimentación por parte del equipo de trabajo y los clientes.
+-- 4: Metodologia Lean: Se optimizan los costos de producción y la velocidad de entrega del proyecto.
+-- 5: Metodologia FDD: Cualquier elemento sin valor para el cliente es eliminado.
+
